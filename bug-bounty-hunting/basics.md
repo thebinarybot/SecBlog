@@ -14,3 +14,4 @@ Fundaments : Understanding the Internet
 6. Proxy and Reverse Proxy: [https://twitter.com/thebinarybot/status/1569700581626855425](https://twitter.com/thebinarybot/status/1569700581626855425)
 7. HTTP Requests and Responses: [https://twitter.com/thebinarybot/status/1577261081948553217](https://twitter.com/thebinarybot/status/1577261081948553217)
 8. Cookies: [https://twitter.com/thebinarybot/status/1578032467520331776](https://twitter.com/thebinarybot/status/1578032467520331776)
+9. Token-Based Authentication: [https://twitter.com/thebinarybot/status/1578363302803013633](https://twitter.com/thebinarybot/status/1578363302803013633)
