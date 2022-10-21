@@ -15,4 +15,3 @@ Fundaments : Understanding the Internet
 7. HTTP Requests and Responses: [https://twitter.com/thebinarybot/status/1577261081948553217](https://twitter.com/thebinarybot/status/1577261081948553217)
 8. Cookies: [https://twitter.com/thebinarybot/status/1578032467520331776](https://twitter.com/thebinarybot/status/1578032467520331776)
 9. Token-Based Authentication: [https://twitter.com/thebinarybot/status/1578363302803013633](https://twitter.com/thebinarybot/status/1578363302803013633)
-10. JSON Web Tokens (JWTs): [https://twitter.com/thebinarybot/status/1583132736184647686](https://twitter.com/thebinarybot/status/1583132736184647686)
