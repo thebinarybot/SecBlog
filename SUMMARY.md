@@ -8,7 +8,7 @@
 * [Tips](bug-bounty-hunting/tips.md)
 * [Tools](bug-bounty-hunting/tools.md)
 * [Resources](bug-bounty-hunting/resources/README.md)
-  * [Conference Material](bug-bounty-hunting/resources/conference-material.md)
+  * [Top Conference Materials - 2022](bug-bounty-hunting/resources/top-conference-materials-2022.md)
 
 ## 📑 Certifications
 
