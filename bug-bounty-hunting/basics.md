@@ -16,3 +16,10 @@ Fundaments : Understanding the Internet
 8. Cookies: [https://twitter.com/thebinarybot/status/1578032467520331776](https://twitter.com/thebinarybot/status/1578032467520331776)
 9. Token-Based Authentication: [https://twitter.com/thebinarybot/status/1578363302803013633](https://twitter.com/thebinarybot/status/1578363302803013633)
 10. JSON Web Tokens (JWTs): [https://twitter.com/thebinarybot/status/1583132736184647686](https://twitter.com/thebinarybot/status/1583132736184647686)
+
+
+
+Now that you've learnt the basics, checkout these threads before you start.
+
+* How would I start my journey from scratch: [https://twitter.com/thebinarybot/status/1557705929633792002](https://twitter.com/thebinarybot/status/1557705929633792002)
+* Choosing the right program: [https://twitter.com/thebinarybot/status/1559171143390695424](https://twitter.com/thebinarybot/status/1559171143390695424)
