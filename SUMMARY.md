@@ -10,7 +10,6 @@
 * [Articles](bug-bounty-hunting/articles.md)
 * [Resources](bug-bounty-hunting/resources/README.md)
   * [Top Conference Materials - 2022](bug-bounty-hunting/resources/top-conference-materials-2022.md)
-* [H1 Disclosed Reports](bug-bounty-hunting/h1-disclosed-reports.md)
 
 ## 📑 Certifications
 
