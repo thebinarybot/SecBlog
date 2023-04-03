@@ -13,3 +13,7 @@
 ## 📑 Certifications
 
 * [eJPT](certifications/ejpt.md)
+
+## 🚀 Web3 Sec
+
+* [Web3 Basics](web3-sec/web3-basics.md)
